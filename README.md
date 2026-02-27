@@ -1,7 +1,9 @@
 # SSE 演示系统 (Searchable Symmetric Encryption)
 
 本项目实现了一个最小化的 **可搜索对称加密（SSE）系统**。
+
 学号：4125156016
+B站演示视频链接：【可搜索加密（SSE）Demo：加密存储 + 关键词查询】 https://www.bilibili.com/video/BV1aff2BvEm8/?share_source=copy_web&vd_source=ee2f9e9f40ed6305806aee3b34b2e750
 ---
 
 ## 1. 背景与动机
